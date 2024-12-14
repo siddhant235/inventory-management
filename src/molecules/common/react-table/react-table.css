@@ -1,0 +1,33 @@
+table {
+    /* border-: 1px solid lightgray; */
+    width: 100%;
+    text-align: left;
+    background-color: #202020 !important;
+    border-radius: 5px;
+    justify-content: space-between;
+}
+
+tbody {}
+
+tr {
+    border-bottom: 1px solid #4C4C4C !important
+}
+
+td {
+
+    padding: 12px !important;
+
+}
+
+th {
+    padding: 10px 10px;
+    text-align: left;
+}
+
+tfoot {
+    color: gray;
+}
+
+tfoot th {
+    font-weight: normal;
+}
